@@ -115,4 +115,9 @@ PRODUCT_COPY_FILES += \
         vendor/samsung/apexq-common/proprietary/etc/firmware/wcnss.mdt:system/etc/firmware/wcnss.mdt \
         vendor/samsung/apexq-common/proprietary/etc/firmware/wlan/prima/WCNSS_cfg.dat:system/etc/firmware/wlan/prima/WCNSS_cfg.dat \
         vendor/samsung/apexq-common/proprietary/etc/firmware/wlan/prima/WCNSS_qcom_cfg.ini:system/etc/firmware/wlan/prima/WCNSS_qcom_cfg.ini \
+        vendor/samsung/apexq-common/proprietary/bin/hciattach:system/bin/hciattach \
+        vendor/samsung/apexq-common/proprietary/bin/hci_qcomm_init:system/bin/hci_qcomm_init \
+        vendor/samsung/apexq-common/proprietary/bin/LE_dut:system/bin/LE_dut \
+        vendor/samsung/apexq-common/proprietary/bin/qcom_audio_dut:system/bin/qcom_audio_dut \
+        vendor/samsung/apexq-common/proprietary/bin/qcom_dut:system/bin/qcom_dut \
         vendor/samsung/apexq-common/proprietary/lib/libqc-opt.so:system/lib/libqc-opt.so
