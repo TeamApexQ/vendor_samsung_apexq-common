@@ -71,6 +71,8 @@ PRODUCT_COPY_FILES += \
         vendor/samsung/apexq-common/proprietary/lib/libatparser.so:system/lib/libatparser.so \
         vendor/samsung/apexq-common/proprietary/lib/libqcci_legacy.so:system/lib/libqcci_legacy.so \
         vendor/samsung/apexq-common/proprietary/lib/libqmi_client_qmux.so:system/lib/libqmi_client_qmux.so \
+        vendor/samsung/apexq-common/proprietary/lib/libomission_avoidance.so:system/lib/libomission_avoidance.so \
+        vendor/samsung/apexq-common/proprietary/lib/libfactoryutil.so:system/lib/libfactoryutil.so \
         vendor/samsung/apexq-common/proprietary/lib/libloc_api_v02.so:system/lib/libloc_api_v02.so \
         vendor/samsung/apexq-common/proprietary/lib/hw/nfc.MSM8260A.so:system/lib/hw/nfc.MSM8260A.so \
         vendor/samsung/apexq-common/proprietary/vendor/firmware/libpn544_fw.so:system/vendor/firmware/libpn544_fw.so \
