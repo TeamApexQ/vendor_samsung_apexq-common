@@ -22,6 +22,9 @@ PRODUCT_COPY_FILES += \
         vendor/samsung/apexq-common/proprietary/etc/thermald-8960.conf:system/etc/thermald-8960.conf \
         vendor/samsung/apexq-common/proprietary/lib/libacdbloader.so:system/lib/libacdbloader.so \
         vendor/samsung/apexq-common/proprietary/lib/libaudcal.so:system/lib/libaudcal.so \
+        vendor/samsung/apexq-common/proprietary/lib/libaudioalsa.so:system/lib/libaudioalsa.so \
+        vendor/samsung/apexq-common/proprietary/lib/libaudioparsers.so:system/lib/libaudioparsers.so \
+        vendor/samsung/apexq-common/proprietary/lib/libcsd-client.so:system/lib/libcsd-client.so \
         vendor/samsung/apexq-common/proprietary/lib/libmmparser.so:system/lib/libmmparser.so \
         vendor/samsung/apexq-common/proprietary/lib/libmmosal.so:system/lib/libmmosal.so \
         vendor/samsung/apexq-common/proprietary/lib/libdivxdrm.so:system/lib/libdivxdrm.so \
